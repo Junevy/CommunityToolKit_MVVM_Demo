@@ -6,17 +6,35 @@ using CommunityToolkit.Mvvm.Messaging.Messages;
 /// <summary>
 /// ObservableRecipient ViewModel
 /// </summary>
-partial class ORViewModel<T> : ObservableRecipient, IRecipient<ValueChangedMessage<string>> where T : class
+partial class ORViewModel : ObservableRecipient, IRecipient<ValueChangedMessage<string>>
 {
-    public ORViewModel(IMessenger messenger)
+    /// <summary>
+    /// isActive = true;
+    /// </summary>
+
+    // public ORViewModel(IMessenger messenger)
+    // {
+    //     messenger.Register<ValueChangedMessage<string>>(this, MsgHandler);
+    // }
+
+    // public ORViewModel(IMessenger messenger, int token)
+    // {
+    //     messenger.Register<ValueChangedMessage<string>, int>(this, token, MsgHandler);
+    // }
+    // public ORViewModel() { }
+    
+    public void RegisterMessage(IMessenger messenger)
     {
-        messenger.Register<T>(this, (o, m) =>
-        {
-            if (m is ValueChangedMessage<string>)
-            {
-                Console.WriteLine((m as ValueChangedMessage<string>)?.Value ?? "None");
-            }
-        });
+        // Type t = typeof(T);
+        // var instance = Activator.CreateInstance(t);
+        // messenger.Register<T>(instance);
+
+        messenger.Register<ValueChangedMessage<string>>(this, MsgHandler);
+    }
+
+    private void MsgHandler(object recipient, ValueChangedMessage<string> message)
+    {
+        Console.WriteLine($"Handler:: {message.Value} from {recipient.ToString()}");
     }
 
     public void Receive(ValueChangedMessage<string> message)

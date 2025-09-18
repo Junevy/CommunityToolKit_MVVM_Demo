@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVVMDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+668cbeecba56ec567fe7686f5f0c7e3845a0bfb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVVMDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVVMDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

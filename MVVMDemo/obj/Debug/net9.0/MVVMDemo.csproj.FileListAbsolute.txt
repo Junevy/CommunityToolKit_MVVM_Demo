@@ -15,3 +15,4 @@ D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\
 D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.pdb
 D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.genruntimeconfig.cache
 D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\ref\MVVMDemo.dll
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.sourcelink.json
