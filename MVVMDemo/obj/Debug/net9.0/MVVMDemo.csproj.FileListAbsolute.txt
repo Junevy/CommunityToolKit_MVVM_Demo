@@ -1,0 +1,17 @@
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\bin\Debug\net9.0\MVVMDemo.exe
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\bin\Debug\net9.0\MVVMDemo.deps.json
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\bin\Debug\net9.0\MVVMDemo.runtimeconfig.json
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\bin\Debug\net9.0\MVVMDemo.dll
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\bin\Debug\net9.0\MVVMDemo.pdb
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\bin\Debug\net9.0\CommunityToolkit.Mvvm.dll
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.csproj.AssemblyReference.cache
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.AssemblyInfoInputs.cache
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.AssemblyInfo.cs
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.csproj.CoreCompileInputs.cache
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.csproj.Up2Date
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.dll
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\refint\MVVMDemo.dll
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.pdb
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\MVVMDemo.genruntimeconfig.cache
+D:\Desktop\WorkSpace\Learn\CommunityToolKit_MVVM_Demo\MVVMDemo\obj\Debug\net9.0\ref\MVVMDemo.dll
