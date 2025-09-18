@@ -1,9 +1,12 @@
+using System.ComponentModel.Design;
+using System.Security.Authentication.ExtendedProtection;
 using CommunityToolkit.Mvvm.Messaging;
 using CommunityToolkit.Mvvm.Messaging.Messages;
 
 class App
 {
-    public static void Main(string[] args)
+    // public static void Main(string[] args)
+    public static void main(string[] args)
     {
         /*
             @ Date：2025年9月18日16:25:44
@@ -36,10 +39,11 @@ class App
 
         // Message type : PropertyChangedMessage.
         // Broadcast message
-        PropViewModel propVM = new();
-
-        //isActive属性
-        propVM.IsActive = true; //不激活Recipient，Recipient将Unregistered任何消息。
+        PropViewModel propVM = new()
+        {
+            //isActive属性
+            IsActive = true //不激活Recipient，Recipient将Unregistered任何消息。
+        };
 
         messenger.Send(new PropertyChangedMessage<string>(
             propVM,
