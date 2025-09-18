@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\ioc_wpf_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\ioc_wpf_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\services\\webclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\services\\webclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\services\\catfacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\services\\catfacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\services\\iwebclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\services\\iwebclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|d:\\desktop\\workspace\\learn\\communitytoolkit_mvvm_demo\\ioc_wpf_demo\\services\\icatfacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28F6F95-C758-4238-802B-2D83E7F2AF3F}|IoC_WPF_Demo\\IoC_WPF_Demo.csproj|solutionrelative:ioc_wpf_demo\\services\\icatfacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IoC_WPF_Demo",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\IoC_WPF_Demo.csproj",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\IoC_WPF_Demo.csproj",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\IoC_WPF_Demo.csproj",
+              "RelativeToolTip": "IoC_WPF_Demo\\IoC_WPF_Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T17:07:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\AssemblyInfo.cs",
+              "RelativeToolTip": "IoC_WPF_Demo\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:39:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWebClient.cs",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\IWebClient.cs",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\Services\\IWebClient.cs",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\IWebClient.cs",
+              "RelativeToolTip": "IoC_WPF_Demo\\Services\\IWebClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:39:08.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICatFacts.cs",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\ICatFacts.cs",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\Services\\ICatFacts.cs",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\ICatFacts.cs",
+              "RelativeToolTip": "IoC_WPF_Demo\\Services\\ICatFacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:38:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatFacts.cs",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\CatFacts.cs",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\Services\\CatFacts.cs",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\CatFacts.cs",
+              "RelativeToolTip": "IoC_WPF_Demo\\Services\\CatFacts.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:38:45.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\MainWindowViewModel.cs",
+              "RelativeToolTip": "IoC_WPF_Demo\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:37:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebClient.cs",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\WebClient.cs",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\Services\\WebClient.cs",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\Services\\WebClient.cs",
+              "RelativeToolTip": "IoC_WPF_Demo\\Services\\WebClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:37:01.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "IoC_WPF_Demo\\MainWindow.xaml",
+              "ToolTip": "D:\\Desktop\\WorkSpace\\Learn\\CommunityToolKit_MVVM_Demo\\IoC_WPF_Demo\\MainWindow.xaml",
+              "RelativeToolTip": "IoC_WPF_Demo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T16:36:30.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
